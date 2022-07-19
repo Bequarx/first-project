@@ -1,0 +1,12 @@
+.arda {
+    width: 100%;
+    height: 40px;
+    background-color: #3dad55;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
